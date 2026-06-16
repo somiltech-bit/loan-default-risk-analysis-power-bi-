@@ -6,7 +6,7 @@ You can download it from the Google Drive link below.
 
 ## Download Dataset
 
-Google Drive: [https://drive.google.com/your-link-here](https://drive.google.com/file/d/1LxdlX7Yh6IrifvobCMpdk9i0jH-raSqF/view?usp=sharing)(https://drive.google.com/file/d/1LxdlX7Yh6IrifvobCMpdk9i0jH-raSqF/view?usp=sharing)
+Google Drive: [Download Dataset](https://drive.google.com/file/d/1LxdlX7Yh6IrifvobCMpdk9i0jH-raSqF/view?usp=sharing)
 
 Dataset Details
 
