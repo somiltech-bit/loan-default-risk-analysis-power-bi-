@@ -246,10 +246,8 @@ loan-default-risk-analysis-power-bi/
 │ └── financial_risk_metrics.png
 
 ├── data/
-│ ├── loan_default.csv
-│ └── data_dictionary.xlsx
-
-└── docs/
+│ ├── data_link.md
+│ └── data_dictionary.md
 └── dax_measures.md
 
 ```
